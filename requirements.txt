@@ -1,0 +1,10 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber
+streamlit_mic_recorder
+openai
+httpx
+urllib3
+certifi
